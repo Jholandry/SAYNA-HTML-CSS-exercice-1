@@ -1,0 +1,10 @@
+git init
+git commit -m "New: First commit of doctype de html"
+git branch -M main
+git remote add origin https://github.com/Jholandry/SAYNA-HTML-CSS-exercice-1.git
+git push -u origin main
+
+
+git init
+git commit -m ""
+git push -u origin main
